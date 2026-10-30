@@ -1,0 +1,6 @@
+Validação em 30/10/2026
+Java 17 e Apache Maven 3.9.9
+Compilação, empacotamento e execução concluídos: BUILD SUCCESS.
+Comando: mvn clean package exec:java
+A saída confirmou a normalização do nome e a conversão do objeto em JSON.
+Não há testes automatizados nesta atividade introdutória.
